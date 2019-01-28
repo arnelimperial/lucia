@@ -1,0 +1,17 @@
+.contact-card {
+  background-image: linear-gradient(to right top, #e450a4, #c953ae, #ab56b5, #8b59b7, #675bb5, #8359b4, #9b57b1, #b155ab, #ee558c, #ff7261, #ffa233, #e0d421);
+  border: none; }
+
+.w3-input, input {
+  border: none;
+  background-color: rgba(0, 0, 0, 0.1);
+  color: #FFFFFF; }
+
+textarea:focus, input:focus {
+  outline: none; }
+
+.form-btn {
+  background: linear-gradient(to left bottom, #d78fb8, #da8db5, #dd8bb2, #e08aaf, #e388ab, #f18a9e, #fa8f8f, #fe967f, #f7ae66, #dbca5f, #ade477, #5ffbad);
+  color: #FFFFFF; }
+
+/*# sourceMappingURL=sass.css.map */
